@@ -4,6 +4,7 @@
 header {
 	background: url('../img/bg.jpg');
 	background-position: 100%;
+	background-size: cover;
 }
 hr.star-light:after {
 	background-color: #f1592a;
@@ -22,5 +23,5 @@ hr.star-light:after {
 		img {
 			width: 100%;
 		}
-	}	
+	}
 }

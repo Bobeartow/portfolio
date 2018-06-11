@@ -8,7 +8,8 @@ I've been learning Web Development concepts for over 3 years now. I worked for a
 I look forward to my future career as a Front End Developer, and am always looking for a new challenge.
 
 # Random Stuff about Me
-* I'm obsessed with Parks and Recreation(so much so that I have a Lil' Sebastian tattoo.) ![Lil' Sebastian](https://gph.is/1nLzYLr)
+* I'm obsessed with Parks and Recreation(so much so that I have a Lil' Sebastian tattoo.)  
+![Lil' Sebastian](https://media.giphy.com/media/38z7KJvwQfDCE/giphy.gif)
 * I enjoy good beer, and hanging out with my cats :cat:
 * I'm also an avid gamer, and always seem to get myself into competitive gaming.
 

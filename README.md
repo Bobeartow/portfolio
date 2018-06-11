@@ -1,27 +1,21 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# Portfolio for Bobby Martin
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+### Currently a student at Epicodus
 
-## Getting Started
+# About
+I've been learning Web Development concepts for over 3 years now. I worked for a company called Acutulus Ent. where I spent the majority of my time focused on UX design and some Front End Development. I started attending Epicodus to expand my programming knowledge, as I didn't get the opportunity to during my time with Acutulus.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+I look forward to my future career as a Front End Developer, and am always looking for a new challenge.
 
-## Bugs and Issues
+# Random Stuff about Me
+* I'm obsessed with Parks and Recreation(so much so that I have a Lil' Sebastian tattoo.) ![Lil' Sebastian](https://gph.is/1nLzYLr)
+* I enjoy good beer, and hanging out with my cats :cat:
+* I'm also an avid gamer, and always seem to get myself into competitive gaming.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+# Details
+* This site represents my current work as a Developer and student.
+* The work represented on this site was work done during school time and during contract work time.
 
-## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+This portfolio site was built using the Freelancer Theme from [startbootstrap.com]('http://www.startbootstrap.com')
+**Copyright 2018 _Bobby Martin_**

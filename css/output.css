@@ -23,4 +23,12 @@ hr.star-light:after {
     .profile-header .profile-pic img {
       width: 100%; }
 
+.portfolio-item {
+  max-height: 227px;
+  overflow: hidden; }
+  .portfolio-item .caption {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
 /*# sourceMappingURL=output.css.map */

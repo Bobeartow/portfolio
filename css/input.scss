@@ -25,3 +25,12 @@ hr.star-light:after {
 		}
 	}
 }
+.portfolio-item {
+	max-height: 227px;
+	overflow: hidden;
+	.caption {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}

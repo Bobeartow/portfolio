@@ -23,6 +23,9 @@ hr.star-light:after {
     .profile-header .profile-pic img {
       width: 100%; }
 
+.header-social-links a:first-child {
+  margin-right: 20px; }
+
 .portfolio-item {
   max-height: 227px;
   overflow: hidden; }
